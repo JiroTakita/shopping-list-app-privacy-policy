@@ -1,6 +1,6 @@
-**利用規約**
+[English below](#terms-condtions)
 
-English below
+## 利用規約
 
 この利用規約（以下「本規約」）は、個人開発者 Jiro Takita（以下「サービス提供者」）が提供する無料のモバイルアプリ「Shopping List App」（以下「本アプリ」）に適用されます。
 
@@ -12,14 +12,14 @@ English below
 
 本アプリは、サービスの提供を目的として、利用者が提供した個人データを保存および処理します。スマートフォンのセキュリティを維持し、本アプリへのアクセスを管理する責任は利用者にあります。サービス提供者は、スマートフォンの公式オペレーティングシステムによって課されたソフトウェアの制限や制約を解除する「ジェイルブレイク」や「ルート化」を行うことを強く推奨しません。そのような行為は、マルウェア、ウイルス、悪意のあるプログラムにスマートフォンを晒し、スマートフォンのセキュリティ機能を損なう可能性があり、その結果、本アプリが正常に機能しなくなる、または全く機能しなくなる可能性があります。
 
-***第三者サービスについて***
+### 第三者サービスについて
 
 本アプリは、独自の利用規約を持つ第三者サービスを利用しています。本アプリが使用している第三者サービス提供者の利用規約へのリンクは以下の通りです。
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-***免責事項***
+### 免責事項
 
 サービス提供者は、以下の特定の事項について責任を負いません。
 
@@ -30,18 +30,16 @@ English below
 * サービス提供者は、将来的に本アプリを更新する場合があります。本アプリは現在、特定のオペレーティングシステムの要件に基づいて提供されていますが、その要件は変更される可能性があります。本アプリの使用を継続するには、更新版をダウンロードする必要があります。サービス提供者は、本アプリが常に利用者に適切であり、または利用者の端末にインストールされた特定のオペレーティングシステムバージョンと互換性があることを保証するものではありません。ただし、利用者は、提供される本アプリの更新を常に受け入れることに同意するものとします。
 * サービス提供者は、本アプリの提供をいつでも終了する場合があります。この場合、利用者に通知することなく終了する可能性があります。別途通知がない限り、本規約が終了した場合、(a) 本規約に基づいて利用者に付与された権利とライセンスは終了し、(b) 利用者は本アプリの使用を中止し、(必要であれば) 端末から本アプリを削除する必要があります。
 
-***本規約の変更***
+### 本規約の変更
 
 サービス提供者は、本規約を定期的に更新する場合があります。そのため、利用者は変更がないか定期的にこのページを確認することが推奨されます。サービス提供者は、このページに新しい規約を掲載することによって、いかなる変更も利用者に通知します。
 本規約は、2025年9月8日より有効です。
-
-* * *
 
 本規約についてご質問やご提案がある場合は、お気軽に takijiro0925@gmail.com までご連絡ください。
 
 * * *
 
-**Terms & Conditions**  
+## Terms & Conditions
 
 These terms and conditions apply to the Shopping List App app (hereby referred to as "Application") for mobile devices that was created by Jiro Takita (hereby referred to as "Service Provider") as a Free service.
 
@@ -67,7 +65,7 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-**Changes to These Terms and Conditions**
+### Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
