@@ -1,4 +1,4 @@
-[English below](#terms-condtions)
+[English below](#terms--condtions)
 
 ## 利用規約
 
