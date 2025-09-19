@@ -1,4 +1,5 @@
 **利用規約**
+
 English below
 
 この利用規約（以下「本規約」）は、個人開発者 Jiro Takita（以下「サービス提供者」）が提供する無料のモバイルアプリ「Shopping List App」（以下「本アプリ」）に適用されます。
@@ -38,7 +39,7 @@ English below
 
 本規約についてご質問やご提案がある場合は、お気軽に takijiro0925@gmail.com までご連絡ください。
 
-
+* * *
 
 **Terms & Conditions**  
 
